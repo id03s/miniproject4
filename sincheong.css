@@ -1,0 +1,20 @@
+p{
+     font-family: serif;
+    font-weight: bolder;
+    font-size: 20px;
+    color : darkblue;
+    margin-left: 10px ;
+    margin-right: 10px;}
+  h1{text-align: center;
+    color : aliceblue;}
+  body {background-color: lightsteelblue;}
+  form{ margin-left: 10px ;
+    margin-right: 10px;
+    background: royalblue;}
+  hr{border: 5px solid blue;}
+  span{color:white;
+    font-size: 30px}
+  small {background: aliceblue;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 굴림;}
